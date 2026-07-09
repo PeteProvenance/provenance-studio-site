@@ -1,0 +1,23 @@
+# Provenance
+
+> Provenance is a sovereign brand studio in NSW, Australia. We rebuild a brand as a living, queryable asset: a model trained on the brand and only that brand, running on hardware the client owns, that never leaves their building and compounds in value over time.
+
+Provenance sits upstream of typical AI. The strategy, discovery, articulation and codification of brand work is the work of producing model training data. Brand is the dataset.
+
+## Offerings
+- Brand Liquidity Score (Measure): A live index that measures a brand as a liquid asset: transactional value, resale and licensing value, and cultural influence, tracked over time.
+- Pulse (Monitor): A weekly verified brief on what AI systems and the public are saying about a brand: what is wrong, what is missing, and what to do next.
+- Living Brand (Own): A brand rebuilt as a queryable model that knows the brand and only that brand, running on hardware the client owns and never leaving their building.
+
+## Principles
+- Sovereign: no client data leaves the client environment.
+- Owned: the model runs on hardware the client owns.
+- Compounding: the asset improves the longer it runs.
+
+## Links
+- Home: https://provenancestudio.ai/
+- Journal: https://provenancestudio.ai/blog/
+
+## Contact
+- Email: pete@provenancestudio.ai
+- Location: NSW, Australia
